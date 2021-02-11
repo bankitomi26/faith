@@ -1,4 +1,3 @@
-# faith
 <!DOCTYPE html>
 <html lang="hu">
     <head>
@@ -89,7 +88,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-0"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="C:\Users\Bánki Zsolt\Downloads\startbootstrap-freelancer-gh-pages\startbootstrap-freelancer-gh-pages\assets\img\portfolio\Ungváry_Rudolf_1971.png" alt="" />
+                            <img class="img-fluid" src="portfolio/Ungváry_Rudolf_1971.jpg" alt="" />
                         </div>
                     </div>
                 </div>
@@ -114,7 +113,7 @@
                 <!-- About Section Button-->
                 <div class="text-center mt-4">
                                     <p class="mb-5">
-                    <a class="btn btn-xl btn-outline-light" href="https://drive.google.com/file/d/1RSYaZAiTXLxesn5_vRt8ixeN3ek9xveV/view">
+                    <a class="btn btn-xl btn-outline-light" href="https://drive.google.com/file/d/1AocIWkwDVr0jsw-dxa09FqjXvRyEcZ8t/view?usp=sharing">
                         <i class="fas fa-download mr-2"></i>
                         Letöltés!
                     </a>
@@ -185,8 +184,8 @@
         </div><a class="btn btn-outline-light btn-social mx-1" href="https://bankitomi26.wixsite.com/bankifest"><i class="fab fa-fw fa-wix"></i></a></div>
                         <a class="btn btn-outline-light btn-social mx-1" href="https://www.instagram.com/bankitomi26/"><i class="fab fa-fw fa-instagram"></i></a>
                         <a class="btn btn-outline-light btn-social mx-1" href="https://www.youtube.com/watch?v=TCBoPZ38_lo"><i class="fab fa-fw fa-youtube"></i></a>
-                    </div>
-                  <!-- Copyright Section-->
+                    </div>                   
+        <!-- Copyright Section-->
         <div class="copyright py-4 text-center text-black">            
             <div class="container"><small>Copyright © Your Website 2021</small></div>
         </div>
