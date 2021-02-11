@@ -7,7 +7,7 @@
         <meta name="Bánki Tamás" content="" />
         <title>Sorozatok Az Üdvtörténetből</title>
         <!-- Favicon-->
-        <link rel="icon" type="image/x-icon" href="C:\Users\Bánki Zsolt\Downloads\startbootstrap-freelancer-gh-pages\startbootstrap-freelancer-gh-pages\assets\img\1.jpg" />
+        <link rel="icon" type="image/x-icon" href="assets/img/1.jpg" />
         <!-- Font Awesome icons (free version)-->
         <script src="https://use.fontawesome.com/releases/v5.15.1/js/all.js" crossorigin="anonymous"></script>
         <!-- Google fonts-->
@@ -38,7 +38,7 @@
         <header class="masthead bg-primary text-black text-center">
             <div class="container d-flex align-items-center flex-column">
                 <!-- Masthead Avatar Image-->
-                <img class="masthead-avatar mb-5" src="C:\Users\Bánki Zsolt\Downloads\startbootstrap-freelancer-gh-pages\startbootstrap-freelancer-gh-pages\assets\img\portfolio\Untitled-1.png" alt="" />
+                <img class="masthead-avatar mb-5" src="portfolio/Untitled-1.png" alt="" />
                 <!-- Masthead Heading-->
                 <h1 class="masthead-heading text-uppercase mb-0">Kicsi hűség </h1>
                 <!-- Icon Divider-->
@@ -70,7 +70,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-black"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="C:\Users\Bánki Zsolt\Downloads\startbootstrap-freelancer-gh-pages\startbootstrap-freelancer-gh-pages\assets\img\portfolio\Kemény_István.jpg" alt="" />
+                            <img class="img-fluid" src="portfolio/Kemény_István.jpg" alt="" />
                         </div>
                     </div>
                     <!-- Portfolio Item 2-->
@@ -79,7 +79,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-black"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="C:\Users\Bánki Zsolt\Downloads\startbootstrap-freelancer-gh-pages\startbootstrap-freelancer-gh-pages\assets\img\portfolio\Reményi_József_Tamás_1981.png" alt="" />
+                            <img class="img-fluid" src="portfolio/Reményi_József_Tamás_1981.png" alt="" />
                         </div>
                     </div>                    
                     <!-- Portfolio Item 6-->
@@ -214,7 +214,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="C:\Users\Bánki Zsolt\Downloads\startbootstrap-freelancer-gh-pages\startbootstrap-freelancer-gh-pages\assets\img\portfolio\1.jpg" alt="" />
+                                    <img class="img-fluid rounded mb-5" src="portfolio/1.jpg" alt="" />
                                     <!-- Portfolio Modal - Text-->
                                     <p Class="mb-5">                         
                                         </p>
@@ -249,7 +249,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="C:\Users\Bánki Zsolt\Downloads\startbootstrap-freelancer-gh-pages\startbootstrap-freelancer-gh-pages\assets\img\portfolio\3.jpg" alt="" />
+                                    <img class="img-fluid rounded mb-5" src="portfolio/3.jpg" alt="" />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-5">
                                     <button class="btn btn-primary" data-dismiss="modal">
@@ -283,7 +283,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="C:\Users\Bánki Zsolt\Downloads\startbootstrap-freelancer-gh-pages\startbootstrap-freelancer-gh-pages\assets\img\portfolio\2.jpg" alt="" />
+                                    <img class="img-fluid rounded mb-5" src="portfolio/2.jpg" alt="" />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-5">                               
                                     <button class="btn btn-primary" data-dismiss="modal">
