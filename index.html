@@ -167,8 +167,44 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-8">
                                     <!-- Portfolio Modal - Title-->
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal2Label">Reményi József Tamás</h2>
-                                    <!-- Icon Divider-->
+                                    <p Class="mb-5">                         
+                                        </p><div class="modal-body text-center"><p class="lead"></p>
+                                    "Kedves zsolt!
+ 
+<p>Nagyon-nagyon  szép a regény!</p>
+<p>Ereje van, sodor!<p>
+<p>Többször is könnyes katarzist okoz!<p>
+<p>Tele van szeretettel, és ami meglepő:  a rengeteg halál-haldoklásleírás ellenére is igazi  derű járja át az egészet!<p>
+<p>Úgyhogy gratulálok hozzá!!!<p>
+<p>(kissé hipochonderré váltam közben, de ez legyen az én bajom. : )<p>
+ 
+<p>Kell még vele dolgozni, ahogy te is írtad.  A szövegben sok helyen jeleztem az észrevételeimet, de ami szerintem kéne:<p>
+ 
+<p>Valamivel több Luciról.  Az érzékenységéről.   Arról, hogy az ő szelleme hogy járja át a családot (nem feltétlenül sok kéne erről, de egy-két mondat el-elszórva nem ártana.)<p>
+<p>A katolikusságról, ami összehozhatta Ivánnal. Iván gimnáziumáról (Mikszáth téri piaristák, ugye?), stb.<p>
+ 
+<p>A regény végigolvasása után jut eszembe:  úgy éreztem, hogy a regény második fele-kétharmada már saját magát írta: nagyjából Kálmán történetétől érzem ezt, hogy ezek már nem pusztán állati érdekes epizódok, hanem össze is vannak rendezve.  (nem teljes linearitássá, de többé mint epizódok sora.)<p>
+<p>Szóval Kálmántól már megtaláltad, miről és hogyan fogsz beszélni.  És szerintem ezért kéne a regény első harmadát kissé hozzáigazítani a többihez.   Pl.: Ivánról beszélni többet a padlásos jelenet során, hogy hány éves, beteg-e már, mit tudott meg a feljegyzésből, amit eddig nem tudott, mitől kezdett támolyogni… stb.És   hogy pl. Ez a tudás mennyire hat ki a további életére.<p>
+ 
+<p>A regény szerkezetéhez:  felmerül, hogy nem kéne-e esetleg Iván leépülés történetét félbe vágni, és az első felét valahogy áttenni a regény első harmadába…   de ez csak egy kósza ötlet.<p>
+ 
+<p>A regény vége (a kézilabdás jelenet) úgy érzem kicsit még vázlatos, vagy éppenséggel kicsit túlbeszélt , szóval tisztogatni kéne.  De a helye nagyon is megvan, gyönyörű vége van a regénynek!
+<p>A stílust egységesíteni kéne. Az elidegenítő profán kiszólásokból, úgy érzem, jóval kevesebb van a regény első harmada után, amikorra igazán meglett a stílus. Szóval irtanám a kiszólásokat, vagy amennyit csak lehet, Ivánnak adnék belőlük.<p>
+<p>És nem szaporítom…<p>
+ 
+<p>És még egyszer gratulálok!<p>
+<p>István"</p></div>
+                                    <button class="btn btn-secondary" data-dismiss="modal">
+                                        <i class="fas fa-times fa-fw"></i>
+                                        Close
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>                                    <!-- Icon Divider-->
                                     <div class="divider-custom">
                                         <div class="divider-custom-line"></div>
                                         <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
