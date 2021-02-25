@@ -142,34 +142,7 @@
                                     <!-- Portfolio Modal - Image-->
                                     <img class="img-fluid rounded mb-5" src="portfolio/1.jpg" alt="" />
                                     <!-- Portfolio Modal - Text-->
-                                    <p Class="mb-5">                         
-                                        </p>
-                                    <button class="btn btn-primary" data-dismiss="modal">
-                                        <i class="fas fa-times fa-fw"></i>
-                                        Bezár
-                                    </button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Portfolio Modal 2-->
-        <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-labelledby="portfolioModal2Label" aria-hidden="true">
-            <div class="modal-dialog modal-xl" role="document">
-                <div class="modal-content">
-                    <button class="close" type="button" data-dismiss="modal" aria-label="Close">
-                        <span aria-hidden="true"><i class="fas fa-times"></i></span>
-                    </button>
-                    <div class="modal-body text-center">
-                        <div class="container">
-                            <div class="row justify-content-center">
-                                <div class="col-lg-8">
-                                    <!-- Portfolio Modal - Title-->
-                                    <p Class="mb-5">                         
-                                        </p><div class="modal-body text-center"><p class="lead"></p>
-                                    "Kedves zsolt!
+                                     "Kedves zsolt!
  
 <p>Nagyon-nagyon  szép a regény!</p>
 <p>Ereje van, sodor!<p>
@@ -194,7 +167,7 @@
  
 <p>És még egyszer gratulálok!<p>
 <p>István"</p></div>
-                                    <button class="btn btn-secondary" data-dismiss="modal">
+                                   <button class="btn btn-secondary" data-dismiss="modal">
                                         <i class="fas fa-times fa-fw"></i>
                                         Close
                                     </button>
@@ -204,7 +177,22 @@
                     </div>
                 </div>
             </div>
-        </div>                                    <!-- Icon Divider-->
+        </div> 
+        <!-- Portfolio Modal 2-->
+        <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-labelledby="portfolioModal2Label" aria-hidden="true">
+            <div class="modal-dialog modal-xl" role="document">
+                <div class="modal-content">
+                    <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true"><i class="fas fa-times"></i></span>
+                    </button>
+                    <div class="modal-body text-center">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-8">
+                                    <!-- Portfolio Modal - Title-->
+                                    <p Class="mb-5">                         
+                                        </p><div class="modal-body text-center"><p class="lead"></p>
+                                    <!-- Icon Divider-->
                                     <div class="divider-custom">
                                         <div class="divider-custom-line"></div>
                                         <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
