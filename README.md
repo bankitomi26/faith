@@ -81,8 +81,8 @@
                             <img class="img-fluid" src="portfolio/Reményi_József_Tamás_1981.png" alt="" />
                         </div>
                     </div>                    
-                    <!-- Portfolio Item 3-->
-                    <div class="col-md-6 col-lg-5">
+                    <!-- Portfolio Item 6-->
+                    <div class="col-md-6 col-lg-4 mb-5">
                         <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal3">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-0"><i class="fas fa-plus fa-3x"></i></div>
@@ -225,8 +225,8 @@
                 </div>
             </div>
         </div>
-      <!-- Portfolio Modal 3-->
-        <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-labelledby="portfolioModal3Label" aria-hidden="true">
+      <!-- Portfolio Modal 6-->
+        <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-labelledby="portfolioModal6Label" aria-hidden="true">
             <div class="modal-dialog modal-xl" role="document">
                 <div class="modal-content">
                     <button class="close" type="button" data-dismiss="modal" aria-label="Close">
@@ -237,7 +237,7 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-8">
                                     <!-- Portfolio Modal - Title-->
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal3Label">Ungváry Rudolf</h2>
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal6Label">Ungváry Rudolf</h2>
                                     <!-- Icon Divider-->
                                     <div class="divider-custom">
                                         <div class="divider-custom-line"></div>
@@ -247,8 +247,9 @@
                                     <!-- Portfolio Modal - Image-->
                                     <img class="img-fluid rounded mb-5" src="" alt="" />
                                     <!-- Portfolio Modal - Text-->
-                                    <p Class="mb-5">                   
-</p><div class="modal-body text-center"><p class="lead">Kedves zsolt,
+                                    <p class="mb-5">
+                                    <button class="btn btn-primary" data-dismiss="modal">
+                                        Kedves zsolt,
 Ezek kifogástalanul megírt novellák. Csíkrákosi, már 1994 óta itt élő szívbéli barátom rokonsága ugyanarrafelé mentek, táján kötöttek ki, Krisztián tulajdonképpen ezen a szálon keresztül keveredett Erdőbényére borosnak. Találkoztam tehát a konkrét emlékekkel.
 44-ben meg ugye, csillagos házban laktunk.
 Ilyen jó novellákból ugyan nincsen tengernyi, de annyi készül, hogy ezen a szinten nehéz a verseny. A továbbemelkedés egyik útja a szakmailag totális szépirodalmiasítás, ahogy azok Rakovszky novelláiban megjelennek. Mert a te megközelítésedben az az irály van bene. Ez azt jelenti, hogy valami nagyon nehezen kimutatható csavart belevinni, afféle drámaibbat a drámainál, amire például én soha nem voltam és leszek képes.
@@ -284,11 +285,8 @@ Magvető. És jelenkor, noha ott a posztmodern jelenleg még erős. A budapesti 
 A neheze úgyis csak most kezdődik.
 Szia!
 Rudi
-
-</div>
-                                    <button class="btn btn-primary" data-dismiss="modal">
-                                        <i class="fas fa-times fa-fw"></i>
-                                        Bezár
+                                    <i class="fas fa-times fa-fw"></i>
+                                        Close
                                     </button>
                                 </div>
                             </div>
