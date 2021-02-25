@@ -225,8 +225,8 @@
                 </div>
             </div>
         </div>
-         <!-- Portfolio Modal 3-->
-      <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-labelledby="portfolioModal3abel" aria-hidden="true">
+         <!-- Portfolio Modal 6-->
+        <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-labelledby="portfolioModal6Label" aria-hidden="true">
             <div class="modal-dialog modal-xl" role="document">
                 <div class="modal-content">
                     <button class="close" type="button" data-dismiss="modal" aria-label="Close">
@@ -237,7 +237,7 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-8">
                                     <!-- Portfolio Modal - Title-->
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal3Label">Ungváry Rudolf</h2>
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal6Label">Unngváry Rudolf</h2>
                                     <!-- Icon Divider-->
                                     <div class="divider-custom">
                                         <div class="divider-custom-line"></div>
@@ -245,10 +245,11 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                    <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="" alt="" />
-                                    <!-- Portfolio Modal - Text-->
-                                    <p class="mb-5">
-                                      </p><div class="modal-body text-center"><p class="lead">   Kedves zsolt,<p>
+                                    <div class="row">                    
+                                    </div><img class="img-fluid" src="" alt=""/></div>
+                                 <!-- Portfolio Modal - Text-->
+                                    <p Class="mb-5">                         
+                                        </p><div class="modal-body text-center"><p class="lead"></p>"Kedves zsolt,
 Ezek kifogástalanul megírt novellák. Csíkrákosi, már 1994 óta itt élő szívbéli barátom rokonsága ugyanarrafelé mentek, táján kötöttek ki, Krisztián tulajdonképpen ezen a szálon keresztül keveredett Erdőbényére borosnak. Találkoztam tehát a konkrét emlékekkel.
 44-ben meg ugye, csillagos házban laktunk.
 Ilyen jó novellákból ugyan nincsen tengernyi, de annyi készül, hogy ezen a szinten nehéz a verseny. A továbbemelkedés egyik útja a szakmailag totális szépirodalmiasítás, ahogy azok Rakovszky novelláiban megjelennek. Mert a te megközelítésedben az az irály van bene. Ez azt jelenti, hogy valami nagyon nehezen kimutatható csavart belevinni, afféle drámaibbat a drámainál, amire például én soha nem voltam és leszek képes.
@@ -276,18 +277,18 @@ Nem tudom, hogy állsz a kiadással, de nagyon drukkolok neked.
 Szia!
 
 
-</p><div class="modal-body text-center"><p class="lead">Kedves Zsolt,<p>
+Kedves Zsolt,
 Közben én is rájöttem a gyökerekre és nagyon hitelesnek tartom, ami készült belőle. A levél tökéletes.
 Nincs mese, kiadót kell keresned. Házalni, házalni, házalni. Én a láthatatlan valósággal se találtam azonnal olyat, amelyik tényleg akarta, aztán mégis lett, a pozsonyi kalligram (ez azonban véletlen kivétel volt az esetemben). Most a második utánnyomásnál tartok, összesen eddig kb. 1600 kelt el, ami egy ennyire absztrakt esetben nekem nagyon elég...
 Az a helyzet, hogy tele van a piac vastag regényekkel. A tied lényegre törőbb, ez mindenképpen előny.
 Magvető. És jelenkor, noha ott a posztmodern jelenleg még erős. A budapesti kalligramnál is, de ott azért a mai magyart ugyancsak komolyan veszik. Hátrány, hogy az utóbbinál még kevésbé van jó minőségű gondozás (szerkesztés, korrektúra). A többinél se nagyon. A l'harmattan is szóba jöhet. Krisztiánnak a jaffa kiadóval vannak némi-nemű jobb tapasztalatai.
 A neheze úgyis csak most kezdődik.
 Szia!
-Rudi
-                                    <button class="btn btn-primary" data-dismiss="modal">
+Rudi" </p></div>
+                                    <button class="btn btn-secondary" data-dismiss="modal">
                                         <i class="fas fa-times fa-fw"></i>
-                                        Bezár
-                                    </button>
+                                        Close
+                                      </button>
                                 </div>
                             </div>
                         </div>
