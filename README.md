@@ -142,7 +142,9 @@
                                     <!-- Portfolio Modal - Image-->
                                     <img class="img-fluid rounded mb-5" src="" alt="" />
                                     <!-- Portfolio Modal - Text-->
-                                     "Kedves zsolt!
+                                    <p Class="mb-5">                         
+
+                                     </p><div class="modal-body text-center"><p class="lead">"Kedves zsolt!
  
 <p>Nagyon-nagyon  szép a regény!</p>
 <p>Ereje van, sodor!<p>
@@ -167,7 +169,6 @@
  
 <p>És még egyszer gratulálok!<p>
 <p>István"</p></div>
-                                    <p class="mb-5">
                                     <button class="btn btn-primary" data-dismiss="modal">
                                         <i class="fas fa-times fa-fw"></i>
                                         Bezár
