@@ -81,8 +81,7 @@
                             </div>
                             <img class="img-fluid" src="portfolio/Reményi_József_Tamás_1981.png" alt="" />
                         </div>
-                    </div>
-                    
+                    </div>                    
                     <!-- Portfolio Item 6-->
                     <div class="col-md-6 col-lg-4">
                         <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal6">
@@ -191,8 +190,6 @@
                                     <img class="img-fluid rounded mb-5" src="portfolio/3.jpg" alt="" />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-5">
-             >
-
                                     <button class="btn btn-primary" data-dismiss="modal">
                                         <i class="fas fa-times fa-fw"></i>
                                         Bezár
@@ -226,8 +223,7 @@
                                     <!-- Portfolio Modal - Image-->
                                     <img class="img-fluid rounded mb-5" src="portfolio/2.jpg" alt="" />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-5">
-                               
+                                    <p class="mb-5">                               
                                     <button class="btn btn-primary" data-dismiss="modal">
                                         <i class="fas fa-times fa-fw"></i>
                                         Bezár
