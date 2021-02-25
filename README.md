@@ -201,7 +201,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="portfolio/3.jpg" alt="" />
+                                    <img class="img-fluid rounded mb-5" src="" alt="" />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-5">
                                       </p><div class="modal-body text-center"><p class="lead">  Kedves Zsolt,<p>
@@ -285,7 +285,7 @@ Magvető. És jelenkor, noha ott a posztmodern jelenleg még erős. A budapesti 
 A neheze úgyis csak most kezdődik.
 Szia!
 Rudi
-    <button class="btn btn-primary" data-dismiss="modal">
+                                    <button class="btn btn-primary" data-dismiss="modal">
                                         <i class="fas fa-times fa-fw"></i>
                                         Bezár
                                     </button>
