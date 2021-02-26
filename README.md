@@ -244,9 +244,8 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="portfolio/2.jpg" alt="" />
-                                    <!-- Portfolio Modal - Text-->
-                                        <button class="btn btn-primary" data-dismiss="modal">
+                                    <img class="img-fluid rounded mb-5" src="portfolio/2.jpg" alt="" />                                     
+                                    <button class="btn btn-primary" data-dismiss="modal">
                                         <i class="fas fa-times fa-fw"></i>
                                         Bezár
                                     </button>
