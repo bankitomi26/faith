@@ -87,7 +87,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-0"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="portfolio/Ungváry_Rudolf_1971.png" alt="" />
+                           <a href="portfolio/2.jpg"><img class="img-fluid rounded" src="portfolio/Ungváry_Rudolf_1971.png" alt=""></a>                            
                         </div>
                     </div>
                 </div>
