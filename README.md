@@ -248,7 +248,7 @@
                                     <img class="img-fluid rounded mb-5" src="" alt="" />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-5">
-                                    <button class="btn btn-primary" data-dismiss="modal">
+                                   </p></div> <button class="btn btn-primary" data-dismiss="modal">
                                         Kedves zsolt,
 Ezek kifogástalanul megírt novellák. Csíkrákosi, már 1994 óta itt élő szívbéli barátom rokonsága ugyanarrafelé mentek, táján kötöttek ki, Krisztián tulajdonképpen ezen a szálon keresztül keveredett Erdőbényére borosnak. Találkoztam tehát a konkrét emlékekkel.
 44-ben meg ugye, csillagos házban laktunk.
@@ -284,7 +284,7 @@ Az a helyzet, hogy tele van a piac vastag regényekkel. A tied lényegre törőb
 Magvető. És jelenkor, noha ott a posztmodern jelenleg még erős. A budapesti kalligramnál is, de ott azért a mai magyart ugyancsak komolyan veszik. Hátrány, hogy az utóbbinál még kevésbé van jó minőségű gondozás (szerkesztés, korrektúra). A többinél se nagyon. A l'harmattan is szóba jöhet. Krisztiánnak a jaffa kiadóval vannak némi-nemű jobb tapasztalatai.
 A neheze úgyis csak most kezdődik.
 Szia!
-Rudi
+Rudi </p></div>
                                     <i class="fas fa-times fa-fw"></i>
                                         Close
                                     </button>
