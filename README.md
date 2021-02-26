@@ -82,8 +82,7 @@
                             <img class="img-fluid" src="C:\Users\Bánki Zsolt\Downloads\startbootstrap-freelancer-gh-pages\startbootstrap-freelancer-gh-pages\assets\img\portfolio\Reményi_József_Tamás_1981.png" alt="" />
                         </div>
                     </div>
-                    
-                    <!-- Portfolio Item 6-->
+                                        <!-- Portfolio Item 6-->
                     <div class="col-md-6 col-lg-4">
                         <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal6">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
@@ -186,10 +185,8 @@
                         <a class="btn btn-outline-light btn-social mx-1" href="https://www.instagram.com/bankitomi26/"><i class="fab fa-fw fa-instagram"></i></a>
                         <a class="btn btn-outline-light btn-social mx-1" href="https://www.youtube.com/watch?v=TCBoPZ38_lo"><i class="fab fa-fw fa-youtube"></i></a>
                     </div>
-                    
-        <!-- Copyright Section-->
-        <div class="copyright py-4 text-center text-black">
-            
+               <!-- Copyright Section-->
+        <div class="copyright py-4 text-center text-black">            
             <div class="container"><small>Copyright © Your Website 2021</small></div>
         </div>
         <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes)-->
