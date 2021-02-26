@@ -213,7 +213,7 @@
 </p><div class="modal-body text-center"><p class="lead">Kedves Zsolt!<p>
 <p>In medias res: nincs nehezebben indokolható bizonytalanság annál, mint amit akkor érzünk, amikor majdnem tetszik valami. Most, másodjára jobban megértettem, miről is beszélsz ebben a könyvben. Nyilván a módosításokra is hivatkozhatnék, talán leginkább a kitűnően megtalált prológusra, de azt hiszem, inkább megérett bennem az olvasat.(Ez jó élmény, köszönöm.) Szépen kifuttatva minden egy Pilinszky-s búcsúmondatra - ez is rendben van. A legnagyobb meglepetés a római "szín": itt a legerősebb a nem kibeszélhető titkok feszültsége, itt a legenigmatikusabb a témád kezelése. Kiválóan megáll önmagában is, ahogy persze a többi, láncra vert fejezet is. És mégis. Bennem nem tud a sokfelé burjánzó szöveg összeállni. Nem tud a nyomorult betörő levele és az ötvenes évekbeli tudósítás meg a sokféle családi jóvátehetetlenség egybefonódni. Egymás ellen dolgozik a két haláltusa krónikája is, közvetlenül egymás után (miközben külön-külön nagyon erős szövegek). A család- és a párhuzamos történetek viszonya tisztázatlan. Ez az Iván kifolyik az ujjaim közül. Istenkísértő, amit mondok: más-más szereplőkkel egy erős novellaciklust láthatnék maga előtt.<p>
 <p>Máskülönben javítani való nemigen van (a töméntelen vessző- és egyéb apró technikai hibától eltekintve), oda kell adni egy kiadónak. Nagyon kíváncsi lennék mások javaslataira.<p>
-<p>Szeretettel: j.<p>
+<p>Szeretettel: j.</p></div>
                             <button class="btn btn-primary" data-dismiss="modal">
                                         <i class="fas fa-times fa-fw"></i>
                                         Bezár
