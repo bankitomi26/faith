@@ -142,7 +142,7 @@
                                     <!-- Portfolio Modal - Image-->
                                     <img class="img-fluid rounded mb-5" src="" alt="" />
                                     <!-- Portfolio Modal - Text-->
-                                    p Class="mb-5">                   
+                                    <p Class="mb-5">                   
 </p><div class="modal-body text-center"><p class="lead">"Kedves zsolt!
  
 <p>Nagyon-nagyon  szép a regény!</p>
