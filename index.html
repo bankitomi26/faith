@@ -285,7 +285,8 @@ Magvető. És jelenkor, noha ott a posztmodern jelenleg még erős. A budapesti 
 A neheze úgyis csak most kezdődik.
 Szia!
 Rudi </p></div>
-                                    <i class="fas fa-times fa-fw"></i>
+                            <button class="btn btn-primary" data-dismiss="modal">
+                            <i class="fas fa-times fa-fw"></i>
                                         Close
                                     </button>
                                 </div>
