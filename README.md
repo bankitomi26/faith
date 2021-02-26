@@ -245,7 +245,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="" alt="" />
+                                    <img class="img-fluid rounded mb-5" src="portfolio/Ungváry_Rudolf_1971.png" alt="" />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-5">
                                       </p><div class="modal-body text-center"><p class="lead">  Kedves Zsolt,<p>
